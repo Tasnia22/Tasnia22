@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Tasnia Rahman
 - 👀 I’m interested in Robotics.
-- 🌱 I’m currently learning What?
+- 🌱 I’m currently learning : What?
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tasnia335@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me tasnia335@gmail.c
+- ⚡ Fun fact: ...👀‼
 
 <!---
 Tasnia22/Tasnia22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
