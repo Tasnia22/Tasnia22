@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics.
 - 🌱 I’m currently learning : What?
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tasnia335@gmail.c
+- 📫 How to reach me tasnia335@gmail.com
 - ⚡ Fun fact: ...👀‼
 
 <!---
