@@ -2,7 +2,8 @@
 - 👀 I’m interested in Robotics."My happiness is hidden here."
 - 🌱 I’m currently learning : What?
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tasnia335@gmail.com
+<img src="![TASNIA](https://github.com/user-attachments/assets/f7f10f33-1ff5-4e42-9d55-21bdd9f45838)" alt="Tasnia">
+
 - ⚡ Fun fact: ...👀‼
 
 <!---
