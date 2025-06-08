@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tasnia Rahman
 - 👀 I’m interested in Robotics."My happiness is hidden here."
-- 🌱 I’m currently learning :circuit simulation......
+- 🌱 I’m currently learning :circuit simulation & Flutter
 - 💞️ I’m looking to collaborate on ...
 
 
