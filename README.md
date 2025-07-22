@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasnia Rahman</h1>
+<h1 align="center">Hey there! I'm Tasnia Rahman</h1>
 <h3 align="center">I’m passionately exploring robotics & embedded systems.</h3>
 
 - 🌱 I’m currently learning **Flutter app development.**
@@ -7,7 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/tasnia-rahman-7286962b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/tasnia-rahman-7286962b9" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/30951248/trp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30951248/trp" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/tasnia335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tasnia335" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/tasnipuqm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tasnipuqm/" height="30" width="40" /></a>
+<a href="https://discord.gg/tasnia_28764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tasnia_28764" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
